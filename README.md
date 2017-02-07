@@ -1,7 +1,7 @@
 # Scrumbags - OOSE DEA 2017
 Dit is de repository voor team **The Scrumbags**. Deze repository wordt gebruikt voor de DEA course 2017
 
-![alt-text](Scrumbags/scrumbag icon.png  "Logo")
+![alt-text](https://github.com/Koen967/Scrumbags/blob/master/scrumbag_icon.png "Logo")
 
 ### Onderdelen
 1. Maven
