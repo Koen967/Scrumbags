@@ -1,0 +1,1 @@
+Voeg de log4j-api en log4j-core dependency toe
