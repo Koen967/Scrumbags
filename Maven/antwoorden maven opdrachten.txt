@@ -1,0 +1,19 @@
+1. dependency toevoegen
+------------------------------
+open pom.xml
+zoek online naar een library
+voeg tussen de <dependencies> een nieuwe <dependency> toe
+tussen de <dependency> voeg je <groupId> <artifactId> en <version> toe
+vul bij <groupId> locatie (bvb: org.apache.logging.log4j) toe
+bij <artifactId> de naam van de dependency
+en bij <version> de versie nummer toe die je wilt gebruiken
+sla de pom.xml op
+------------------------------
+2. versie veranderen
+------------------------------
+open pom.xml
+zoek naar de dependencie waar je de versie van wilt veranderen
+zoek online naar de bestaande versie nummers
+verander wat in de <version> tag staat naar dat nieuw gevonden nummer
+sla de pom.xml op
+------------------------------
