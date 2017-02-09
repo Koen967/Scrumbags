@@ -1,0 +1,4 @@
+1. Voeg de log4j-api en log4j-core dependency toe
+2. Verander de versie nummer naar een ander bestaand nummer
+3. Run een basis applicatie via Maven commandline
+4. Definieer de goals: clean, compile, test en package
